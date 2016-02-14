@@ -2,4 +2,4 @@
 
 var USERNAME = 'Jillella', // github username
     REPO = 'openblog', // github repository
-    TOKEN = '065d9dada1a528b2a741cc5a9699f1be2589644c'; // github app access token
+    TOKEN = '1028bb58310cc0f54e7a9be93df99a6d84a97378'; // github app access token
